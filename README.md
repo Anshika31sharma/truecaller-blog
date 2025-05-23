@@ -25,7 +25,7 @@ This app is a React-based frontend that:
 ## 🛠️ Setup
 
 
-1. Clone the repository: `git clone git@github.com:https://github.com/Anshika31sharma/truecaller-blog.git`
+1. Clone the repository: `git clone https://github.com/Anshika31sharma/truecaller-blog.git`
 2. Navigate to the project directory: `cd truecaller-blog`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
